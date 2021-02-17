@@ -15,5 +15,5 @@ Realizar la automatización de al menos el siguiente caso:
 * Instalar Visual Studio Code. Pueden descargarlo desde el siguiente enlace https://code.visualstudio.com/ . Seleccionar la opción Stable Build.
 * Una vez instalado Node y VS, debemos crear una carpeta en la PC donde se encontrará el proyecto.
 * Abrir la consola y seleccionar nuestra carpeta creada.
-* Tipear “npm install –save-dev cypress” en la consola.
+* Tipear “npm install –save-dev cypress”, o "npm install cypress" en la consola.
 * Y dirigirse a la ruta "Proyecto Cypress\cypress" y ejecutar 'npx cypress open' en la consola
